@@ -5,6 +5,12 @@
 [![Claude Code Projects Index](https://img.shields.io/badge/Claude%20Code-Projects%20Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
 [![GitHub Master Index](https://img.shields.io/badge/GitHub-Master%20Index-green?style=flat-square&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
 
+## About
+
+This repository contains personal reference notes for using Claude Code CLI, synthesized from hands-on experience, Anthropic's official documentation, and community discussions (particularly Reddit threads where users share insights not always apparent in official docs).
+
+The notes here cover configuration, workflows, integrations (like MCP servers), and practical tips for getting the most out of Claude Code CLI. As Claude Code CLI is actively evolving, all notes include dates to track when information was current.
+
 <!-- TOC_START -->
 ## Table of Contents
 
@@ -14,11 +20,11 @@
 
 - [The TL;DR Of Config For Linux Users](./notebook/config-files/linuxtldr.md)
 
-### [Cwd](./notebook/cwd/)
+### [CWD](./notebook/cwd/)
 
 - [Current Working Directory (CWD)](./notebook/cwd/cwd.md)
 
-### [Mcp](./notebook/mcp/)
+### [MCP](./notebook/mcp/)
 
 - [Cloudinary MCP Installation - Claude Code](./notebook/mcp/cloudinary-mcp.md)
 - [Anthropic's Claude Code MCP Notes - My Glosses](./notebook/mcp/mpc-glosses.md)

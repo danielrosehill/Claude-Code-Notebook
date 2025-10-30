@@ -9,7 +9,13 @@ set -e
 prettify_name() {
     local name="$1"
     # Convert kebab-case or snake_case to Title Case
-    echo "$name" | sed 's/-/ /g; s/_/ /g; s/\b\(.\)/\u\1/g'
+    local result=$(echo "$name" | sed 's/-/ /g; s/_/ /g; s/\b\(.\)/\u\1/g')
+
+    # Handle specific acronyms that should be uppercase
+    result=$(echo "$result" | sed 's/\bCwd\b/CWD/g')
+    result=$(echo "$result" | sed 's/\bMcp\b/MCP/g')
+
+    echo "$result"
 }
 
 # Generate TOC
