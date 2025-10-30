@@ -1,5 +1,10 @@
 # Claude Code Notebook
 
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Project-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/anthropics/claude-code)
+
+[![Claude Code Projects Index](https://img.shields.io/badge/Claude%20Code-Projects%20Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![GitHub Master Index](https://img.shields.io/badge/GitHub-Master%20Index-green?style=flat-square&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+
 <!-- TOC_START -->
 ## Table of Contents
 
