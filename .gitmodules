@@ -1,0 +1,3 @@
+[submodule "claude-docs/mirror"]
+	path = claude-docs/mirror
+	url = https://github.com/ericbuess/claude-code-docs
