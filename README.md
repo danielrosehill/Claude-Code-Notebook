@@ -32,10 +32,8 @@ The notes here cover configuration, workflows, integrations (like MCP servers), 
 ### [MCP](./notebook/mcp/)
 
 - [Add MCP From JSON Array ](./notebook/mcp/add-from-json.md)
-- [Cloudinary MCP Installation - Claude Code](./notebook/mcp/cloudinary-mcp.md)
 - [Retrieve MCP Names / List ](./notebook/mcp/get-mcp-names.md)
 - [Anthropic's Claude Code MCP Notes - My Glosses](./notebook/mcp/mpc-glosses.md)
-- [Time Awareness in Claude Code](./notebook/mcp/time-awarendess.md)
 
 <!-- TOC_END -->
 
