@@ -1,0 +1,1 @@
+claude mcp add firecrawl --scope user -e FIRECRAWL_API_KEY=yourkey -- npx -y firecrawl-mcp

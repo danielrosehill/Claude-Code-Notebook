@@ -35,6 +35,18 @@ The notes here cover configuration, workflows, integrations (like MCP servers), 
 - [Retrieve MCP Names / List ](./notebook/mcp/get-mcp-names.md)
 - [Anthropic's Claude Code MCP Notes - My Glosses](./notebook/mcp/mpc-glosses.md)
 
+#### Individual MCP Configurations
+
+- [Cloudinary MCP](./notebook/mcp/individual-configs/cloudinary-mcp.md)
+- [Context7](./notebook/mcp/individual-configs/context7.md)
+- [Firecrawl](./notebook/mcp/individual-configs/firecraw.md)
+- [Hugging Face](./notebook/mcp/individual-configs/hugging-face.md)
+- [Notion](./notebook/mcp/individual-configs/notion.md)
+- [Resend](./notebook/mcp/individual-configs/resend.md)
+- [Time Awareness](./notebook/mcp/individual-configs/time-awarendess.md)
+- [Todoist](./notebook/mcp/individual-configs/todoist.md)
+- [Vercel](./notebook/mcp/individual-configs/vercel.md)
+
 <!-- TOC_END -->
 
 ---
