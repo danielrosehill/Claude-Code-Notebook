@@ -1,4 +1,4 @@
-Syntax for CC:
+# Resend MCP
 
 ```
 claude mcp add resend -s user \
@@ -11,6 +11,8 @@ Replace API key and replace path to locally cloned Resend repo on your computer.
 Notes: transport protocol isn't stated. 
 Backslashes to escape between lines properly. 
 -s is short param for --scope and this install is scope to user.    
+
+---
 
 ## Additional Considerations  
 
