@@ -1,0 +1,1 @@
+Update the readme's index to reflect the current structure of the notebook with relative links to key sections

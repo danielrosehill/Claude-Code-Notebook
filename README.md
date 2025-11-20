@@ -19,33 +19,43 @@ The notes here cover configuration, workflows, integrations (like MCP servers), 
 <!-- TOC_START -->
 ## Table of Contents
 
-### [Main Index](./notebook/index.md)
+### [Main Notebook Index](./notebook/index.md)
 
 ### [Config Files](./notebook/config-files/)
 
+- [Config Files Index](./notebook/config-files/index.md)
 - [The TL;DR Of Config For Linux Users](./notebook/config-files/linuxtldr.md)
 
-### [CWD](./notebook/cwd/)
+### [Current Working Directory (CWD)](./notebook/cwd/)
 
-- [Current Working Directory (CWD)](./notebook/cwd/cwd.md)
+- [CWD Index](./notebook/cwd/index.md)
+- [Current Working Directory (CWD) Notes](./notebook/cwd/cwd.md)
 
-### [MCP](./notebook/mcp/)
+### [MCP (Model Context Protocol)](./notebook/mcp/)
 
-- [Add MCP From JSON Array ](./notebook/mcp/add-from-json.md)
-- [Retrieve MCP Names / List ](./notebook/mcp/get-mcp-names.md)
+- [MCP Index](./notebook/mcp/index.md)
+- [Add MCP From JSON Array](./notebook/mcp/add-from-json.md)
+- [Retrieve MCP Names / List](./notebook/mcp/get-mcp-names.md)
 - [Anthropic's Claude Code MCP Notes - My Glosses](./notebook/mcp/mpc-glosses.md)
+- [Speech-to-Text (STT) MCP](./notebook/mcp/stt.md)
 
 #### Individual MCP Configurations
 
 - [Cloudinary MCP](./notebook/mcp/individual-configs/cloudinary-mcp.md)
 - [Context7](./notebook/mcp/individual-configs/context7.md)
 - [Firecrawl](./notebook/mcp/individual-configs/firecraw.md)
+- [GitHub Gists](./notebook/mcp/individual-configs/github-gists.md)
 - [Hugging Face](./notebook/mcp/individual-configs/hugging-face.md)
 - [Notion](./notebook/mcp/individual-configs/notion.md)
 - [Resend](./notebook/mcp/individual-configs/resend.md)
 - [Time Awareness](./notebook/mcp/individual-configs/time-awarendess.md)
 - [Todoist](./notebook/mcp/individual-configs/todoist.md)
 - [Vercel](./notebook/mcp/individual-configs/vercel.md)
+
+### Additional Resources
+
+- [Useful Links](./links.md)
+- [Claude Docs Mirror](./claude-docs/key-files/) - Reference copy of official Claude Code documentation
 
 <!-- TOC_END -->
 
